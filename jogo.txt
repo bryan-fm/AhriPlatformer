@@ -1,0 +1,23 @@
+1.1- Nome?
+1.2- Tela de Início
+1.3- Player GUI
+
+2.1- Cena de Teste
+
+2.2- Animações (Andar, Pular)
+2.3- Ataques
+	2.3.1 - Orb (nao vai voltar por enquanto)
+	2.3.2 - Charm (Stun)
+2.4- Animação dos Ataques
+2.5 - Sons
+
+3.1 - Inimigos
+3.3 - Ataques e IA dos inimigos
+3.3 - Boss
+3.4 - Ataques e IA do Boss
+
+4.1 - Criar 2-3 Cenas
+4.2 - Criar Cena do Boss
+
+5 - Tela de encerramento.
+
