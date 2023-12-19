@@ -3759,7 +3759,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   myAnim: {fileID: 1892560162}
   rb: {fileID: 1892560163}
-  moveSpeed: 5
+  moveSpeed: 3
+  jump: 0
 --- !u!61 &1892560165
 BoxCollider2D:
   m_ObjectHideFlags: 0
